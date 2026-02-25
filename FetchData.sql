@@ -1,1 +1,23 @@
+-- This file have SQL for needed Data
 
+-- Tabel Name : online_shoppers
+
+-- Tabel Col: 
+-- Administrative
+-- Administrative_Duration
+-- Informational
+-- Informational_Duration
+-- ProductRelated
+-- ProductRelated_Duration
+-- BounceRates
+-- ExitRates
+-- PageValues
+-- SpecialDay
+-- Month
+-- OperatingSystems
+-- Browser
+-- Region
+-- TrafficType
+-- VisitorType
+-- Weekend
+-- Revenue
