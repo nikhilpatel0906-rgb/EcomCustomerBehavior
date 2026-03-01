@@ -45,7 +45,7 @@ Identify customer behavior patterns and determine:
 
 ### View Notebook (Google Colab)
 
-[![Open in Colab](https://drive.google.com/drive/folders/1teoCcN59rLTXt9s2bqinSepE2j4WfiQS?usp=sharing)]
+[[Open in Colab](https://drive.google.com/drive/folders/1teoCcN59rLTXt9s2bqinSepE2j4WfiQS?usp=sharing)]
 
 ### View Dashboard (Power BI)
 
