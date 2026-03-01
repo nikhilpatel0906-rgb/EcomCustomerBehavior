@@ -101,7 +101,6 @@ Attached in repository
 ## Author
 
 **Nikhil Patel**
-
 Aspiring Data Analyst
 
 LinkedIn: ([LinkedIn](https://www.linkedin.com/in/nikhil9698/))
