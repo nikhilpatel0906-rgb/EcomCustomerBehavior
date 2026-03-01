@@ -88,7 +88,7 @@ Attached in repository
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 * Customer behavior analysis
 * Conversion funnel analysis
@@ -98,7 +98,7 @@ Attached in repository
 
 ---
 
-## 👤 Author
+## Author
 
 **Nikhil Patel**
 Aspiring Data Analyst
