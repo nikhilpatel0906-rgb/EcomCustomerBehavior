@@ -81,10 +81,7 @@ Attached in repository
 ---
 
 ## Dashboard Preview
-
-```
-![Dashboard Preview](dashboard.png)
-```
+![Power BI Dashboard](dashboard_page_1.png)
 
 ---
 
