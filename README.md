@@ -1,97 +1,133 @@
 # E-Commerce Customer Purchase Behavior Analysis
 
-An end-to-end **Data Analytics Project** focused on understanding why website visitors do not convert into customers and how an e-commerce company can improve sales conversion.
+An end-to-end **Data Analytics Project** analyzing 12,000+ website user sessions to understand why visitors browse but do not purchase and how an e-commerce business can improve conversion rate.
 
-This project analyzes 12,000+ user sessions and provides business recommendations using **Excel, SQL, Python, and Power BI**.
+---
+
+## Business Problem
+
+An e-commerce website receives high visitor traffic but only a small percentage of users complete purchases.
+
+The company wants to know:
+
+* Why customers leave without buying
+* What behavior leads to purchases
+* Which users should be targeted
+* How to improve sales conversion
 
 ---
 
 ## Project Objective
 
-Most visitors browse products but do not complete purchases.
-
-**Goal:**
-Identify customer behavior patterns and determine:
-
-* Why users leave without buying
-* What factors influence purchasing
-* How the company can improve conversion rate
+Identify behavioral patterns affecting purchase decisions and provide actionable business strategies to increase conversion rate without increasing marketing spending.
 
 ---
 
 ## Tools & Technologies
 
-* Excel (Data Cleaning & KPI Analysis)
-* SQL (Business Queries)
-* Python — Pandas, Matplotlib, Seaborn (EDA)
-* Power BI (Interactive Dashboard)
-* Jupyter Notebook / Google Colab
+* **Excel** : KPI & initial analysis
+* **SQL** : Business queries & segmentation
+* **Python (Pandas, Matplotlib, Seaborn)** : Exploratory Data Analysis
+* **Power BI** : Interactive Dashboard & storytelling
+* **Google Colab / Jupyter Notebook**
 
 ---
 
-## Project Files
+## Dashboard Preview
 
-| File                             | Description                       |
-| -------------------------------- | --------------------------------- |
-| `online_shoppers_intention.csv`  | Raw dataset                       |
-| `FetchData.sql`                  | Business analysis queries         |
-| `Ecommerce_Conversion_EDA.ipynb` | Python analysis notebook          |
-| `Case_Study_Report.pdf`          | Business report & recommendations |
-| `PowerBI_Dashboard.pdf`          | Dashboard screenshots             |
+![Power BI Dashboard](dashboard_page.png)
 
 ---
 
-## Quick Access (Click Below)
+## Project Links
 
-### View Notebook (Google Colab)
+### Python Notebook (Colab)
 
-[[Open in Colab](https://drive.google.com/drive/folders/1teoCcN59rLTXt9s2bqinSepE2j4WfiQS?usp=sharing)]
-
-### View Dashboard (Power BI)
-
-[![Dashboard](https://drive.google.com/drive/folders/1teoCcN59rLTXt9s2bqinSepE2j4WfiQS?usp=sharing)]
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
 ### Case Study Report
 
-[![Report](https://drive.google.com/drive/folders/1teoCcN59rLTXt9s2bqinSepE2j4WfiQS?usp=sharing)]
+[![Case Study](https://img.shields.io/badge/View-Case%20Study-blue)](YOUR_CASE_STUDY_PDF_LINK)
+
+### Power BI Dashboard (PDF)
+
+[![Dashboard](https://img.shields.io/badge/View-Dashboard-yellow?logo=powerbi)](YOUR_DASHBOARD_LINK)
 
 ### Dataset
 
-Attached in repository
+[![Dataset](https://img.shields.io/badge/Dataset-CSV-green)](YOUR_DATASET_LINK)
+
+### SQL Queries
+
+[![SQL Queries](https://img.shields.io/badge/SQL-Queries-orange)](YOUR_SQL_FILE_LINK)
 
 ---
 
 ## Key Insights
 
-* Only ~15% of visitors complete purchases
-* High bounce rate users rarely convert
-* Product page engagement strongly influences purchasing
-* Many users browse products but abandon checkout
+* Overall conversion rate ≈ **15%**
+* New visitors convert more immediately than returning visitors
+* Returning visitors browse products but often delay purchases
+* High bounce rate sessions rarely lead to transactions
+* Higher product engagement strongly increases purchase probability
+* Some marketing channels generate traffic but not conversions
 
 ---
 
 ## Business Recommendations
 
-* Improve landing page experience
+### Website Optimization
+
+* Improve landing page clarity and speed
 * Simplify checkout process
-* Retarget interested visitors
-* Send cart-abandonment reminders
-* Focus marketing on high-conversion channels
+* Enable guest checkout
 
----
+### Customer Conversion Strategy
 
-## Dashboard Preview
-![Power BI Dashboard](dashboard_page.png)
+* Cart abandonment email reminders
+* Limited-time discount offers
+* First-purchase coupons
+
+### Marketing Strategy
+
+**New Visitors**
+
+* Fast checkout
+* Clear pricing & product details
+
+**Returning Visitors**
+
+* Retargeting ads
+* Price-drop notifications
+* Promotional offers
 
 ---
 
 ## What I Learned
 
 * Customer behavior analysis
-* Conversion funnel analysis
-* KPI design
-* Data storytelling
-* Business recommendation building
+* Conversion funnel analytics
+* KPI design & business metrics
+* Data storytelling using dashboards
+* Translating data into business decisions
+
+---
+
+## Repository Structure
+
+```
+├── data/
+│   └── online_shoppers_intention.csv
+├── sql/
+│   └── SQL_queries.sql
+├── notebook/
+│   └── Ecommerce_Conversion_EDA.ipynb
+├── reports/
+│   ├── Case_Study_Report.pdf
+│   └── PowerBI_Dashboard.pdf
+├── dashboard_page_1.png
+└── README.md
+```
 
 ---
 
@@ -100,7 +136,6 @@ Attached in repository
 **Nikhil Patel**
 (Aspiring Data Analyst)
 
-LinkedIn: ([LinkedIn](https://www.linkedin.com/in/nikhil9698/))
+LinkedIn: [Nikhil_LinkedIn](https://www.linkedin.com/in/nikhil9698/)
 
 
----
