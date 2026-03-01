@@ -34,7 +34,7 @@ Identify customer behavior patterns and determine:
 | File                             | Description                       |
 | -------------------------------- | --------------------------------- |
 | `online_shoppers_intention.csv`  | Raw dataset                       |
-| `FetchData  .sql`                | Business analysis queries         |
+| `FetchData.sql`                  | Business analysis queries         |
 | `Ecommerce_Conversion_EDA.ipynb` | Python analysis notebook          |
 | `Case_Study_Report.pdf`          | Business report & recommendations |
 | `PowerBI_Dashboard.pdf`          | Dashboard screenshots             |
