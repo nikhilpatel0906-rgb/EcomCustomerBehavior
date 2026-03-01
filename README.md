@@ -33,33 +33,27 @@ Identify behavioral patterns affecting purchase decisions and provide actionable
 
 ---
 
-## Dashboard Preview
+## Repository Structure
 
-![Power BI Dashboard](dashboard_page.png)
+```
+├── data/
+│   └── online_shoppers_intention.csv
+├── sql/
+│   └── SQL_queries.sql
+├── notebook/
+│   └── Ecommerce_Conversion_EDA.ipynb
+├── reports/
+│   ├── Case_Study_Report.pdf
+│   └── PowerBI_Dashboard.pdf
+├── dashboard_page_1.png
+└── README.md
+```
 
 ---
 
-## Project Links
+## Dashboard Preview
 
-### Python Notebook (Colab)
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
-
-### Case Study Report
-
-[![Case Study](https://img.shields.io/badge/View-Case%20Study-blue)](YOUR_CASE_STUDY_PDF_LINK)
-
-### Power BI Dashboard (PDF)
-
-[![Dashboard](https://img.shields.io/badge/View-Dashboard-yellow?logo=powerbi)](YOUR_DASHBOARD_LINK)
-
-### Dataset
-
-[![Dataset](https://img.shields.io/badge/Dataset-CSV-green)](YOUR_DATASET_LINK)
-
-### SQL Queries
-
-[![SQL Queries](https://img.shields.io/badge/SQL-Queries-orange)](YOUR_SQL_FILE_LINK)
+![Power BI Dashboard](dashboard_page.png)
 
 ---
 
@@ -110,24 +104,6 @@ Identify behavioral patterns affecting purchase decisions and provide actionable
 * KPI design & business metrics
 * Data storytelling using dashboards
 * Translating data into business decisions
-
----
-
-## Repository Structure
-
-```
-├── data/
-│   └── online_shoppers_intention.csv
-├── sql/
-│   └── SQL_queries.sql
-├── notebook/
-│   └── Ecommerce_Conversion_EDA.ipynb
-├── reports/
-│   ├── Case_Study_Report.pdf
-│   └── PowerBI_Dashboard.pdf
-├── dashboard_page_1.png
-└── README.md
-```
 
 ---
 
